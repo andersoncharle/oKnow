@@ -40,7 +40,7 @@ A browser does not understand Sass code. Therefore, you will need a Sass pre-pro
 
 This process is called transpiling. So, you need to give a transpiler (some kind of program) some Sass code and then get some CSS code back.
 
->*Tips*: Transpiling is a term for taking a source code written in one language and transform/translate it into another language.
+>***Tips***: Transpiling is a term for taking a source code written in one language and transform/translate it into another language.
 
 ## Sass File Type
 
