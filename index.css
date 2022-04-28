@@ -71,6 +71,7 @@ button {
 
 .notification {
   margin: 0.75rem;
+  padding: 0.75rem;
   color: #1ac888;
   border-color: #1ac888;
   border-style: solid;

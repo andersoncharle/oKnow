@@ -90,7 +90,8 @@ cursor: pointer;
 }
 .notification{
 margin: $base-margin;
-    color: $secondary;
+padding: $base-padding;    
+color: $secondary;
     border-color: $secondary;
 border-style: solid;
 border-radius: $base-border-radius;
