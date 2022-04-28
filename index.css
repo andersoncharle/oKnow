@@ -93,7 +93,7 @@ h1 a {
   color: #d32752;
 }
 
-.error:hover, .notification:hover {
+.error:hover, .notification:hover, button:hover {
   background-color: white;
 }
 /*# sourceMappingURL=index.css.map */
