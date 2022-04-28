@@ -7,7 +7,6 @@
   - [Sass File Type](#sass-file-type)
   - [Sass Comments](#sass-comments)
   - [Sass Example](#sass-example)
-Am try on my best to elaborate important concept concerning about sass with real examples on coding.
 
 ## What You Should Already Know
 
@@ -15,7 +14,7 @@ Before you continue you should have a basic understanding of the following:
 
 .HTML
 .CSS
-
+Am try on my best to elaborate important concept concerning about sass with real examples on coding.
 ## So what's Sass?
 
 >Sass stands for Syntactically Awesome Stylesheet
