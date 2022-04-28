@@ -89,4 +89,8 @@ h1 a {
 #heading span {
   color: #d32752;
 }
+
+:hover {
+  background-color: white;
+}
 /*# sourceMappingURL=index.css.map */
