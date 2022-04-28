@@ -65,6 +65,7 @@ button {
   color: #d32752;
   border-color: #d32752;
   border-style: solid;
+  margin: 0.75rem;
 }
 
 .notification {
