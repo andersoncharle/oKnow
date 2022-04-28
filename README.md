@@ -10,6 +10,7 @@
   - [Sass Example](#sass-example)
   - [Sass Installation](#sass-installation)
     - [System Requirements for Sass](#system-requirements-for-sass)
+    - [Install Sass](#install-sass)
 
 ## What You Should Already Know
 
@@ -75,3 +76,7 @@ $primary_2: #b2ad7f;
 .Browser support - Sass works in Edge/IE (from IE 8), Firefox, Chrome, Safari, Opera
 
 . Programming language - Sass is based on Ruby
+
+### Install Sass
+
+There are several ways to install Sass in your system. There are many applications that will get you up and running with Sass in a few minutes for Mac, Windows, and Linux. Some of these are free, but some are paid apps.
