@@ -64,6 +64,7 @@ button {
 }
 
 .error {
+  border-radius: 20px;
   color: #d32752;
   border-color: #d32752;
   border-style: solid;

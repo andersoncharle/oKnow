@@ -84,6 +84,7 @@ border-radius: $base-border-radius;
 }
 
 .error{
+    border-radius: $base-border-radius;
     color: $error;
     border-color: $error;
     border-style: solid;
