@@ -58,6 +58,7 @@ button {
   color: whitesmoke;
   padding: 0.75rem;
   border-radius: 20px;
+  cursor: pointer;
 }
 
 .error {
