@@ -27,4 +27,8 @@ hr {
 img {
   max-width: 100%;
 }
+
+h1 a {
+  color: ghostwhite;
+}
 /*# sourceMappingURL=index.css.map */
