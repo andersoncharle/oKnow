@@ -95,5 +95,6 @@ h1 a {
 
 .error:hover, .notification:hover, button:hover {
   background-color: white;
+  color: black;
 }
 /*# sourceMappingURL=index.css.map */
