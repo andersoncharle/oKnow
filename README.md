@@ -47,7 +47,7 @@ This process is called transpiling. So, you need to give a transpiler (some kind
 Sass files has the ".scss" file extension.
 
 ## Sass Comments
-Sass supports standard CSS comments ```{sass}/*comment*/ ```, and in addition it supports inline comments ```{sass}// comment```:
+Sass supports standard CSS comments ```sass /*comment*/ ```, and in addition it supports inline comments ```{sass}// comment```:
 
 ## Sass Example
 
