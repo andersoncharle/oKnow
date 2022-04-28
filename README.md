@@ -64,7 +64,7 @@ Sass supports standard CSS comments ``` /*comment*/ ```, and in addition it supp
 
 ```sass
 /* define primary colors */
-$primary_1: #a2b9bc;
+$your-color_1: #a2b9bc;
 $primary_2: #b2ad7f;
 
 /* use the variables */
