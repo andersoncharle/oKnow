@@ -11,6 +11,7 @@
   - [Sass Installation](#sass-installation)
     - [System Requirements for Sass](#system-requirements-for-sass)
     - [Install Sass](#install-sass)
+  - [Official Sass Web Site](#official-sass-web-site)
 
 ## What You Should Already Know
 
@@ -80,3 +81,9 @@ $primary_2: #b2ad7f;
 ### Install Sass
 
 There are several ways to install Sass in your system. There are many applications that will get you up and running with Sass in a few minutes for Mac, Windows, and Linux. Some of these are free, but some are paid apps.
+
+> You can read more about them here: sass-lang.com/install
+
+## Official Sass Web Site
+
+Read more about Sass at the official Sass web site: <https://sass-lang.com/>
