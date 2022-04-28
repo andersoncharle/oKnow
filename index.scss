@@ -56,6 +56,11 @@ img{
 }
 
 h1{
+    margin-bottom: $base-margin;
+    color: $base-color;
+}
+
+h1{
     a{
         color: ghostwhite;
     }
