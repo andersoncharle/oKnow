@@ -18,7 +18,10 @@
 Before you continue you should have a basic understanding of the following:
 
 .HTML
+
 .CSS
+
+
 Am try on my best to elaborate important concept concerning about sass with real examples on coding.
 
 ## So what's Sass?
