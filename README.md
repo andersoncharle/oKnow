@@ -19,3 +19,5 @@ Before you continue you should have a basic understanding of the following:
 
 <p> Sass reduces repetition of CSS and therefore saves time.
 </p>
+
+## Why Use Sass?
