@@ -22,7 +22,7 @@ Before you continue you should have a basic understanding of the following:
 .CSS
 
 
-Am try on my best to elaborate important concept concerning about sass with real examples on coding.
+Am try on my best to elaborate important concept concerning about sass with real examples through code.
 
 ## So what's Sass?
 
