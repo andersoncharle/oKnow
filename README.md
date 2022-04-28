@@ -67,5 +67,6 @@ $primary_2: #b2ad7f;
 ### System Requirements for Sass
 
 .Operating system - Sass is platform independent
-.
+.Browser support - Sass works in Edge/IE (from IE 8), Firefox, Chrome, Safari, Opera
+
 .
