@@ -12,6 +12,10 @@ reset styles
 *
 **/
 /**
+* theme colors
+*
+**/
+/**
 * spacing
 *
 **/
@@ -49,6 +53,10 @@ img {
 h1 {
   margin-bottom: 0.75rem;
   color: ghostwhite;
+}
+
+button {
+  background-color: #326dee;
 }
 
 h1 a {
