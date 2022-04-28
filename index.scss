@@ -82,6 +82,7 @@ cursor: pointer;
 }
 
 .error{
+    padding: $base-padding;
     border-radius: $base-border-radius;
     color: $error;
     border-color: $error;
