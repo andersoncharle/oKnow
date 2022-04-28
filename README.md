@@ -1,4 +1,5 @@
 # **Sass**
+
 - [**Sass**](#sass)
   - [What You Should Already Know](#what-you-should-already-know)
   - [So what's Sass?](#so-whats-sass)
@@ -7,7 +8,7 @@
   - [Sass File Type](#sass-file-type)
   - [Sass Comments](#sass-comments)
   - [Sass Example](#sass-example)
-  - [Sass Installation.](#sass-installation)
+  - [Sass Installation](#sass-installation)
     - [System Requirements for Sass](#system-requirements-for-sass)
 
 ## What You Should Already Know
@@ -17,6 +18,7 @@ Before you continue you should have a basic understanding of the following:
 .HTML
 .CSS
 Am try on my best to elaborate important concept concerning about sass with real examples on coding.
+
 ## So what's Sass?
 
 >Sass stands for Syntactically Awesome Stylesheet
@@ -49,6 +51,7 @@ This process is called transpiling. So, you need to give a transpiler (some kind
 Sass files has the ".scss" file extension.
 
 ## Sass Comments
+
 Sass supports standard CSS comments ``` /*comment*/ ```, and in addition it supports inline comments ```// comment```:
 
 ## Sass Example
@@ -63,11 +66,12 @@ $primary_2: #b2ad7f;
   background-color: $primary_1; // here you can put an inline comment
 }
  ```
-## Sass Installation.
+
+## Sass Installation
+
 ### System Requirements for Sass
 
 .Operating system - Sass is platform independent
 .Browser support - Sass works in Edge/IE (from IE 8), Firefox, Chrome, Safari, Opera
 
 . Programming language - Sass is based on Ruby
-
