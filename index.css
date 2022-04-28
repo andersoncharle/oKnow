@@ -73,6 +73,7 @@ button {
   color: #1ac888;
   border-color: #1ac888;
   border-style: solid;
+  border-radius: 20px;
 }
 
 h1 a {
