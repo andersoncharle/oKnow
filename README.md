@@ -51,7 +51,7 @@ Sass supports standard CSS comments /*comment*/, and in addition it supports inl
 
 ## Sass Example
 
-```html
+```sass
 /* define primary colors */
 $primary_1: #a2b9bc;
 $primary_2: #b2ad7f;
