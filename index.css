@@ -67,6 +67,10 @@ button {
   border-style: solid;
 }
 
+.notification {
+  color: #1ac888;
+}
+
 h1 a {
   color: ghostwhite;
 }
