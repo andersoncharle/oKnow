@@ -70,6 +70,7 @@ $your-color_2: #b2ad7f;
 /* use the variables */
 .main-header {
   background-color: your-color_1; // here you can put an inline comment
+  color
 }
  ```
 
