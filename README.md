@@ -8,6 +8,7 @@
   - [Sass Comments](#sass-comments)
   - [Sass Example](#sass-example)
   - [Sass Installation.](#sass-installation)
+    - [System Requirements for Sass](#system-requirements-for-sass)
 
 ## What You Should Already Know
 
@@ -63,5 +64,8 @@ $primary_2: #b2ad7f;
 }
  ```
 ## Sass Installation.
+### System Requirements for Sass
 
-
+.Operating system - Sass is platform independent
+.
+.
