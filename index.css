@@ -57,6 +57,14 @@ h1 {
 
 button {
   background-color: #326dee;
+  border: 0;
+  color: whitesmoke;
+}
+
+.error {
+  color: #d32752;
+  border-color: #d32752;
+  border-style: solid;
 }
 
 h1 a {

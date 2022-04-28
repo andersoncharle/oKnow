@@ -77,7 +77,14 @@ h1{
 
 button{
     background-color: $primary;
-    
+ border: 0;
+ color: whitesmoke;   
+}
+
+.error{
+    color: $error;
+    border-color: $error;
+    border-style: solid;
 }
 
 h1{
