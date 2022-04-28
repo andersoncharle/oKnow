@@ -50,7 +50,7 @@ This process is called transpiling. So, you need to give a transpiler (some kind
 
 ## Sass File Type
 
-Sass files has the ".scss" file extension.
+Sass files has the "```.scss```" file extension.
 
 ## Sass Comments
 
@@ -58,7 +58,8 @@ Sass supports standard CSS comments ``` /*comment*/ ```, and in addition it supp
 
 ## Sass Example
 
-```{sass}
+
+```sass
 /* define primary colors */
 $primary_1: #a2b9bc;
 $primary_2: #b2ad7f;
@@ -68,6 +69,7 @@ $primary_2: #b2ad7f;
   background-color: $primary_1; // here you can put an inline comment
 }
  ```
+
 
 ## Sass Installation
 
