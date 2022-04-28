@@ -69,4 +69,5 @@ $primary_2: #b2ad7f;
 .Operating system - Sass is platform independent
 .Browser support - Sass works in Edge/IE (from IE 8), Firefox, Chrome, Safari, Opera
 
-.
+. Programming language - Sass is based on Ruby
+
