@@ -31,11 +31,11 @@ $base-margin: 0.75rem;
 $base-border-thickness: 1px;
 $base-border-radius: 20px;
 
-
+$base-bg-color: palevioletred;
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: palevioletred;
+    background-color: $base-bg-color;
 }
 
 ul{
