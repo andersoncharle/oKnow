@@ -24,6 +24,7 @@ Before you continue you should have a basic understanding of the following:
 .CSS
 
 .The basics of any programming language.
+
 Am try on my best to elaborate important concept concerning about sass with real examples through code.
 
 ## 1.2. So what's Sass?
