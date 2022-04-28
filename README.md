@@ -7,6 +7,7 @@
   - [Sass File Type](#sass-file-type)
   - [Sass Comments](#sass-comments)
   - [Sass Example](#sass-example)
+  - [Sass Installation](#sass-installation)
 
 ## What You Should Already Know
 
@@ -61,3 +62,4 @@ $primary_2: #b2ad7f;
   background-color: $primary_1; // here you can put an inline comment
 }
 ```
+## Sass Installation
