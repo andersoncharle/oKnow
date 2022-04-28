@@ -1,5 +1,12 @@
 # **Sass**
-
+- [**Sass**](#sass)
+  - [What You Should Already Know](#what-you-should-already-know)
+  - [So what's Sass?](#so-whats-sass)
+  - [Why Use Sass?](#why-use-sass)
+  - [How Does Sass Work?](#how-does-sass-work)
+  - [Sass File Type](#sass-file-type)
+  - [Sass Comments](#sass-comments)
+  - [Sass Example](#sass-example)
 Am try on my best to elaborate important concept concerning about sass with real examples on coding.
 
 ## What You Should Already Know
