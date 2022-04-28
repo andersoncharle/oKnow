@@ -93,4 +93,3 @@ There are several ways to install Sass in your system. There are many applicatio
 ## 1.9. Official Sass Web Site
 
 Read more about Sass at the official Sass web site: <https://sass-lang.com/>
-
