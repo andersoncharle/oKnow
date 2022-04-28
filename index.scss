@@ -15,9 +15,12 @@ reset styles
 **/ 
 /**
 * theme colors
-*
+* color
+*  background color
 **/ 
 
+$base-bg-color: palevioletred;
+$base-color: ghostwhite;
 $primary:#326dee;
 $secondary: #1ac888;
 $error: #d32752;
@@ -39,13 +42,7 @@ $base-margin: 0.75rem;
 $base-border-thickness: 1px;
 $base-border-radius: 20px;
 
-/**
-* color
-*  background color
-**/ 
 
-$base-bg-color: palevioletred;
-$base-color: ghostwhite;
 
 
 body{

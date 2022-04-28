@@ -13,7 +13,8 @@ reset styles
 **/
 /**
 * theme colors
-*
+* color
+*  background color
 **/
 /**
 * spacing
@@ -22,10 +23,6 @@ reset styles
 /**
 * margin
 *
-**/
-/**
-* color
-*  background color
 **/
 body {
   font-family: 'Poppins', sans-serif;
