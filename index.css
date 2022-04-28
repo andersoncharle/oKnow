@@ -19,6 +19,10 @@ reset styles
 * margin
 *
 **/
+/**
+* color
+*  background color
+**/
 body {
   font-family: 'Poppins', sans-serif;
   background-color: palevioletred;
@@ -44,6 +48,7 @@ img {
 
 h1 {
   margin-bottom: 0.75rem;
+  color: ghostwhite;
 }
 
 h1 a {
